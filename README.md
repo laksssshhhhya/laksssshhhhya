@@ -7,15 +7,15 @@
 ---
 
 ### **About Me**  
-👨‍💻 3rd Year B.Tech CSE Student | Data & Web Enthusiast | Poet  
-📍 Passionate about Data Analysis, Web Development, and DevOps  
-📚 Exploring **DSA**, **React**, **Statistical Analysis**, **DevOps**, **Graph Analytics** and **Python**  
-🎭 Learning about **Competitive Coding & Problem Solving**  
-📝 Writing poetry in **Hindi & with a blend of Urdu** (Check out my Instagram!)  
+- 3rd Year B.Tech CSE Student | Data & Web Enthusiast | Poet  
+- Passionate about Data Analysis, Web Development, and DevOps  
+- Exploring **DSA**, **React**, **Statistical Analysis**, **DevOps**, **Graph Analytics** and **Python**  
+- Learning about **Competitive Coding & Problem Solving**  
+- Writing poetry in **Hindi & with a blend of Urdu** (Check out my Instagram!)  
 
 ---
 
-### 🛠 Tech Stack  
+###  **Tech Stack**  
 - **Programming:** Python, JavaScript, SQL, C/C++, Java
 - **Web Dev:** React, Next.js, Tailwind CSS, Node.js 
 - **Data Science & Computer Vision:** Pandas, NumPy, Matplotlib, Seaborn, OpenCV, Scikit-Learn  
@@ -25,7 +25,7 @@
 
 ---
 
-### 📈 **GitHub Stats & Trophies**  
+###  **GitHub Stats & Trophies**  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laksssshhhhya&theme=dark" alt="GitHub Streak" />
   <br>
@@ -35,7 +35,7 @@
 
 ---
 
-### 🌍 **Let's Connect!**  
+###  **Let's Connect!**  
 💼 [LinkedIn](https://www.linkedin.com/in/lakshyajha2003)  
 📸 [Instagram](https://www.instagram.com/tumchaandho)  
 <!-- ✍️ [Portfolio Website](https://your-website.com)  --> 
